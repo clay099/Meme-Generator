@@ -1,0 +1,53 @@
+#create{
+    background-color: lightgray;
+    padding: 25px;
+    margin-top: 10px;
+    line-height: 2em;
+    text-align: center;
+}
+
+#newMeme {
+    width: 100%;
+}
+
+.lables {
+    width: 180px;
+    text-align: left;
+    float: left;
+}
+
+.textBox {
+    width: 80%;
+}
+.submit {
+    text-align: right;
+}
+
+.memeCard {
+    width: 30%;
+    margin: 10px;
+    height: 200px;
+    border: 2px solid gray ;
+    background: center;
+    background-size: cover;
+    text-align: center;
+    float: left;
+    color: white;
+    font-size: 3rem;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: black;
+}
+
+.top {
+    position: relative;
+    /* top: 5px; */
+}
+
+.bottom {
+    position: relative;
+    top: 80px;
+}
+
+.hover {
+    opacity:0.5;
+}

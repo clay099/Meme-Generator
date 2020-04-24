@@ -1,0 +1,47 @@
+actions = create html, 'create' div & CSS styling
+start: 11:50
+end:12:30
+time-taken: 40min
+
+===============================================================================
+
+actions = create meme function 
+    - image and top text and bottom text appearing in the div
+start: 1:00
+end: 1:40
+time-taken: 40min
+time-todate: 1hr 20min
+
+===============================================================================
+
+actions = fix css 
+    - so that text top and bottom appear correctly in position
+    - text color is white
+    - text contains and outline
+    - three images appear side by side
+start: 1:40
+end: 2:15
+time-taken: 35min
+time-todate: 1hr 55min
+
+===============================================================================
+
+actions = work on delete clicked div
+start: 2:15
+end: 2:25
+time-taken: 10min
+time-todate: 2hr 5min
+
+===============================================================================
+
+actions = add mouse over & mouseout event listener to make div opacity
+start: 2:25
+end: 2:40
+time-taken: 15min
+time-todate: 2hr 20min
+
+===============================================================================
+
+COMPLETED WORKING APP
+
+===============================================================================
